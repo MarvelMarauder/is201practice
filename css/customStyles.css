@@ -1,0 +1,16 @@
+.bg-primary{
+    background-color: blue !important;
+}
+
+a{
+    color: blue;
+}
+
+body{
+    background-image: url('../assets/img/calvin.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
